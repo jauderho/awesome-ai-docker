@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Awesome AI Docker
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jauder
+    family-names: Ho
+    orcid: 'https://orcid.org/0009-0000-0538-8698'
+    email: jauderho@users.noreply.github.com
+license: BSD-3-Clause
